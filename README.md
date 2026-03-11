@@ -15,26 +15,43 @@ still figuring it out. building things in the meantime.
 
 ### the short version
 
-- 🖥️ I live in the frontend — HTML, CSS, JS, React, TS, NextJS, NodeJs — turning designs into things people actually *use*
+- 🖥️ I live in the frontend be it HTML, CSS, JS, React, TS, NextJS, NodeJs — turning designs into things people actually *use*
 - 🚀 2 years of shipping real products for startups
 - 💡 I take raw ideas and make them click, scroll, and feel just right
-- 🧭 Still figuring out the bigger picture — and I'm okay with that
-
----
-<!--
-### what i work with
-
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+- 🧭 Still figuring out the bigger picture....... and I am okay with that
 
 ---
 
--->
+## 🚀 Tech Stack
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
+
+### ⚙️ Backend
+![Node JS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
+![n8n](https://img.shields.io/badge/n8n-000?style=for-the-badge&logo=n8n)
+![Vite](https://img.shields.io/badge/Vite-000?style=for-the-badge&logo=vite)
+
+---
+
+
+
 
 ### what working with me looks like
 
